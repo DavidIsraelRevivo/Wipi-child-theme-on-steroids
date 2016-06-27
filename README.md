@@ -10,27 +10,27 @@ Child theme on Stroids for WiPi theme! comes built-in with many features like: H
 
 # Included functions
 
-1. WordPress version hidden.
+1. WordPress version hidden. - Security
 
-2. Emoji icons feature disabled.
+2. Emoji icons feature disabled. - Performance 
 
-3. Option to edit themes and plugins files from Admin panel disabled.
+3. Option to edit themes and plugins files from Admin panel disabled. - Security
 
-4. Login hints in wp-login are disabled
+4. Login hints in wp-login are disabled. - Security
 
-5. Option to change Admin panel footer text added.
+5. Option to change Admin panel footer text added. - Appearance
 
-6. Option to change wp-login logo to custom logo
+6. Option to change wp-login logo to custom logo. - Appearance
 
-7. Option to change wp-login logo url to custom url
+7. Option to change wp-login logo url to custom url. - Appearance
 
-8. Option to change wp-login logo title to custom title
+8. Option to change wp-login logo title to custom title. - Appearance
 
-9. JS loaded in footer instead in header
+9. JS loaded in footer instead in header. - Performance 
 
-10. Google CDN for loading Jquery
+10. Google CDN for loading Jquery. - Performance 
 
-11. Query Strings removed
+11. Query Strings removed. - Performance 
 
 # Links
 WiPi web - https://www.wipi.co.il/
