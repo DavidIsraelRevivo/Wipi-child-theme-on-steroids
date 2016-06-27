@@ -46,7 +46,7 @@ add_filter( 'login_errors', 'wpfme_login_obscure' );
 function remove_footer_admin () { return '<a href="https://www.davidrevivo.co.il/wipi-child-theme-%D7%AA%D7%91%D7%A0%D7%99%D7%AA-%D7%91%D7%AA/" alt="WiPi Child theme on steroids to download">WiPi Child Theme on Steroids</a>'; } add_filter('admin_footer_text', 'remove_footer_admin');
 
 // 6. Change wp-login Logo
-function my_custom_login_logo() { echo '<style type="text/css"> h1 a { background-image: url(https://www.davidrevivo.co.il/wp-content/uploads/2016/03/32x32.png) !important; }
+function my_custom_login_logo() { echo '<style type="text/css"> h1 a { background-image: url(http://your-domain.com/image-path.png) !important; }
  </style>'; } add_action('login_head', 'my_custom_login_logo');
 
 // 7. Change wp-login logo url
