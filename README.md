@@ -26,6 +26,12 @@ Child theme on Stroids for WiPi theme! comes built-in with many features like: H
 
 8. Option to change wp-login logo title to custom title
 
+9. JS loaded in footer instead in header
+
+10. Google CDN for loading Jquery
+
+11. Query Strings removed
+
 # Links
 WiPi web - https://www.wipi.co.il/
 
