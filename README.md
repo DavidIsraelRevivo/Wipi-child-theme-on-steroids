@@ -1,5 +1,5 @@
 # Wipi-child-theme-on-steroids
-WiPi is WordPress child theme on Steroids! comes built-in with many features like: Hidden WP version, Disabled unnecessary functions,  login hints in wp-login are disabled, Custom Admin footer text and many more features...
+Child theme on Stroids for WiPi theme! comes built-in with many features like: Hidden WP version, Disabled unnecessary functions,  login hints in wp-login are disabled, Custom Admin footer text and many more features...
 
 #Installation
 1) Download the files in .zip
