@@ -1,4 +1,4 @@
-# Wipi-child-theme-on-steroids Version 1.0.4
+# Wipi-child-theme-on-steroids Version 1.0.5
 Child theme on Stroids for WiPi theme! comes built-in with many features like: Hidden WP version, Disabled unnecessary functions,  login hints in wp-login are disabled, Custom Admin footer text and many more features...
 
 #Installation
@@ -30,14 +30,15 @@ Child theme on Stroids for WiPi theme! comes built-in with many features like: H
 
 10. Google CDN for loading Jquery. - Performance 
 
-11. Query Strings removed. - Performance 
-
 # Links
 WiPi web - https://www.wipi.co.il/
 
 WiPi child theme on Steroids Author web - https://www.davidrevivo.co.il/
 
 WiPi child theme on steroids Author post (Hebrew) - https://www.davidrevivo.co.il/wipi-child-theme-%D7%AA%D7%91%D7%A0%D7%99%D7%AA-%D7%91%D7%AA/
+
+# Thanks
+Shlomi Porush
 
 
 
