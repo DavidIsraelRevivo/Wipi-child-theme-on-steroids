@@ -10,6 +10,7 @@ function my_theme_enqueue_styles() {
 remove_action('wp_head', 'wp_generator');
 
 // 2. Disable emoji icons
+
 function disable_wp_emojicons() {
 
   // all actions related to emojis
@@ -28,6 +29,7 @@ function disable_wp_emojicons() {
   remove_filter( 'comment_text_rss', 'wp_staticize_emoji' );
 
   // filter to remove TinyMCE emojis
+  // Warning: If you have TinyMCE plugin I highly recommended to remove this function because this function cause to some bugs like Color text button doesnt appear, etc.
   add_filter( 'tiny_mce_plugins', 'disable_emojicons_tinymce' );
 
 }
