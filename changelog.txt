@@ -3,3 +3,4 @@
 26.6.2016 - Version 1.0.2: 6 New features added to functions.php
 26.6.2016 - Version 1.0.3: 2 New features added to functions.php
 27.6.2016 - Version 1.0.4: 3 New features added to functions.php
+30.7.2016 - Version 1.0.5: "Remove Query strings" function deleted (cause for some bugs in WiPi parent theme V1.0.1)

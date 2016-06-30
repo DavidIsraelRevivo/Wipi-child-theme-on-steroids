@@ -84,13 +84,4 @@ function savvy_remove_jquery_migrate_use_google_hosted_jquery() {
     }
 }
 add_action('init', 'savvy_remove_jquery_migrate_use_google_hosted_jquery');
-
-// 11. Remove Query Strings
-function _remove_script_version( $src ){
-	$parts = explode( '?ver', $src );
-        return $parts[0];
-}
-add_filter( 'script_loader_src', '_remove_script_version', 15, 1 );
-add_filter( 'style_loader_src', '_remove_script_version', 15, 1 );
-
 ?>
