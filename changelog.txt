@@ -1,6 +1,8 @@
-26.6.2016 - Version 1.0.0: WiPi Child theme created
-26.6.2016 - Version 1.0.1:  rtl.css and screenshot.png added for WiPi Child theme
-26.6.2016 - Version 1.0.2: 6 New features added to functions.php
-26.6.2016 - Version 1.0.3: 2 New features added to functions.php
-27.6.2016 - Version 1.0.4: 3 New features added to functions.php
-30.7.2016 - Version 1.0.5: "Remove Query strings" function deleted (cause for some bugs in WiPi parent theme V1.0.1)
+26.06.16 - Version 1.0.0: WiPi Child theme created
+26.06.16 - Version 1.0.1:  rtl.css and screenshot.png added for WiPi Child theme
+26.06.16 - Version 1.0.2: 6 New features added to functions.php
+26.06.16 - Version 1.0.3: 2 New features added to functions.php
+27.06.16 - Version 1.0.4: 3 New features added to functions.php
+30.07.16 - Version 1.0.5: "Remove static Query strings" function deleted (cause for some bugs in WiPi parent theme V1.0.1)
+03.07.16 - Version 1.0.6: TGMPA added with bundled ACF PRO and options page for full control on the built-in functions."Remove static Query strings" function added.
+
